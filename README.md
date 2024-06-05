@@ -1,6 +1,6 @@
 # A BigCommerce / Next.js Proof of Concept
 
-This rudimentary storefront supports the lab work for BigCommerce Composable Storefronts Intermediate.
+This project supports guided lab exercises to create a basic implementation of a Next.js storefront for BigCommerce.
 
 ## Prerequisites
 
